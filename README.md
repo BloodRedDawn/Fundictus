@@ -20,3 +20,7 @@ This program do not endorse cheating or hacking but rather a simplified way to h
  - New interface.
  - Added custom made config editor and added support for Sylas & Delia configs.
  - Various bug fix on the config editor for config file no longer needed to be put on read only.
+
+# Credits
+ - mmavipc (made the config tool used to decrypt the files)
+Source: http://www.mpgh.net/forum/showthread.php?t=515750
