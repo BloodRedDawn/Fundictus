@@ -23,4 +23,4 @@ This program do not endorse cheating or hacking but rather a simplified way to h
 
 # Credits
  - mmavipc (made the config tool used to decrypt the files)
-Source: http://www.mpgh.net/forum/showthread.php?t=515750
+ - Members of Fundictus steam group for the support
