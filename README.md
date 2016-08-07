@@ -1,4 +1,5 @@
 ![funlogo](https://raw.githubusercontent.com/myrkol/Fundictus/master/Fundictus/Resources/logo.png)
+
 This is a custom vindictus launcher made to bypass Nexon awful launcher from their service and the one they use on steam
 This program comes with a config editor to edit the binds the game use to send command to the engine (Source SDK 2006)
 This program do not endorse cheating or hacking but rather a simplified way to have better control on the user experience.
