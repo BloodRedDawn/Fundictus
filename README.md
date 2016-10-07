@@ -1,3 +1,7 @@
+#WARNING: 06 Oct 2016
+
+I'm getting reports of user getting banned for using modded configs i suggest to not use it on nexon servers until i find how they are detecting the binds.
+
 # Fundictus
 
 This is a custom vindictus launcher made to bypass Nexon awful launcher from their service and the one they use on steam
